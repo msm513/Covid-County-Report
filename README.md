@@ -1,1 +1,2 @@
 # Covid-County-Report
+This project looks at Covid data about counties infection rates, covid cases per hundred thousand and population and much more. The goal of this project was to perform an explanatory report to check whether population has an affect on the cases per hundred thousand and if population had an affect on the hospital rates per hundred thousand. The methods I used to test for this was regression models with controls, mean comparison, and visualizations. The software I used to perform this analysis was R studio.  
